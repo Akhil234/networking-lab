@@ -1,0 +1,7 @@
+filename=$new.txt
+if [ -f "filename" ]
+then
+echo "file exist"
+else
+echo "file not exist"
+fi

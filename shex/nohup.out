@@ -1,0 +1,8 @@
+normal priority
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+4 S  1000    1494    1491  1  80   0 - 237382 ep_pol tty2    00:07:08 Xorg
+0 S  1000    1519    1491  0  80   0 - 47031 do_sys tty2     00:00:00 gnome-session-b
+0 S  1000   17177   16418  0  80   0 -  2720 do_wai pts/2    00:00:00 bash
+0 S  1000   17862   17177  0  80   0 -  2375 do_wai pts/2    00:00:00 bash
+4 R  1000   17864   17862  0  80   0 -  2854 -      pts/2    00:00:00 ps
+-al
